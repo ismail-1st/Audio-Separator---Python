@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+demucs
+yt-dlp
+pydub
+python-dotenv
+soundfile
+torchcodec
